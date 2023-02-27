@@ -1,0 +1,13 @@
+Html {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 100%
+  }
+
+ body {
+    border-radius: 50%;
+    height: 130px;
+    margin: -66px 0 22px 0;
+    vertical-align: top;
+  }
